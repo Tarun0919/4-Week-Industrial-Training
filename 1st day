@@ -2,7 +2,7 @@
 
 ## **Day 01**
 
-**Company:** Pixxelu, Dharamshala
+**Company Name:** Pixxelu, Dharamshala
 **Training Duration:** 4 Weeks
 **Training Domain:** HTML, CSS & CMS (WordPress)
 
@@ -10,45 +10,38 @@
 
 ## **Objective**
 
-The objective of today's training was to learn the basics of HTML and understand how a simple web page is created. We also learned how different HTML tags are used to organize and display content on a webpage.
+The objective of today's training was to get familiar with web development and understand the basics of HTML. We learned how HTML is used to create web pages and how to write the basic structure of an HTML document.
 
 ---
 
 ## **Topics Covered**
 
+* Introduction to Web Development
 * Introduction to HTML
+* Features of HTML
 * Basic Structure of an HTML Document
 * HTML Boilerplate
-* Heading Tags (`<h1>` to `<h6>`)
-* Paragraph and Text Formatting Tags
-* Semantic and Non-Semantic Tags
-* Inline and Block Elements
-* Subscript and Superscript
-* Hyperlinks
-* Images
-* Audio, Video and Iframe
-* Ordered, Unordered and Description Lists
+* HTML Tags (`<!DOCTYPE html>`, `<html>`, `<head>`, `<title>`, `<body>`)
+* Creating, Saving and Running an HTML File
 
 ---
 
 ## **Work Done**
 
-During today's session, I created simple HTML pages and practiced each topic. I learned how to write the basic HTML structure, use different tags, add text formatting, insert images and links, and create lists. I also practiced adding audio, video, and iframe elements to a webpage.
+Today, I learned how a basic web page is created using HTML. I created my first HTML file using Notepad and understood the purpose of each part of the HTML structure. I also practiced writing the boilerplate code and viewed the webpage in a web browser to understand how HTML works.
 
 ---
 
 ## **Learning Outcome**
 
-* Understood the basic structure of an HTML document.
-* Learned the purpose of commonly used HTML tags.
-* Understood the difference between semantic and non-semantic tags.
-* Learned how to create hyperlinks and add images to a webpage.
-* Practiced using multimedia elements.
-* Gained confidence in creating basic web pages using HTML.
+* Understood the purpose of HTML in web development.
+* Learned the basic structure of an HTML document.
+* Learned the use of the main HTML tags.
+* Understood how to create, save and run an HTML file.
+* Gained confidence in writing a simple HTML page.
 
 ---
 
 ## **Conclusion**
 
-The first day of training gave me a good understanding of HTML fundamentals. The practical practice helped me understand how web pages are built, which will be useful for learning CSS and CMS in the coming days.
-
+The first day of training helped me understand the basic concepts of HTML and web development. The practical session made it easy to understand how a webpage is created. This knowledge will help me learn more HTML, CSS, and CMS concepts in the coming weeks.
